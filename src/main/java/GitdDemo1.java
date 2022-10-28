@@ -15,5 +15,6 @@ public class GitdDemo1 {
         System.out.println("我在hot-fix2进行的修改");
         System.out.println("我在hot-fix3进行的修改");
         System.out.println("我在将要推送到github进行的修改");
+        System.out.println("我在云端进行的修改");
     }
 }
